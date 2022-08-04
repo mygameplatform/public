@@ -1,23 +1,15 @@
----
-name: Request Issue
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
 
----
+**Game:** 
 
-**Game** 
+
+**Links for the download SteamCMD:**
+
+
+**Installation guide:**
+
+
+ **References:**
 ...
 
-**Links for the download SteamCMD**
-...
-
-**Installation guide**
-...
-
- **References**
-...
-
-**Additional context**
+**Additional context:**
 Add any other context or screenshots about the feature request here.
