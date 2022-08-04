@@ -4,3 +4,4 @@ In this Github you can submit issues for game servers you would like to see.
 
 ATTENTION!!!
 Issues that do not meet the requirements will not be processed and will be deleted immediately.
+
