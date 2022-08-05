@@ -7,17 +7,17 @@ assignees: ''
 
 ---
 
-- **Game** 
+## **Game** 
 <!--- INSERT THE GAMESERVER NAME HERE --->
 
-- **Links for the download SteamCMD**
+## **Links for the download SteamCMD**
 <!--- INSERT THE LINK HERE --->
 
-- **Installation guide**
+## **Installation guide**
 <!--- INSERT THE LINK HERE --->
 
-- **References**
+## **References**
 <!--- HERE TEXT --->
 
-- **Additional context**
+## **Additional context**
 <!--- HERE TEXT --->
