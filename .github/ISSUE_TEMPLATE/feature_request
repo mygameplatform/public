@@ -1,0 +1,53 @@
+---
+name: "Feature Request"
+about: "Submit a request for a new feature in the game project"
+title: "[Feature] Short description of the requested feature"
+labels: ["enhancement", "feature-request"]
+assignees: []
+---
+
+## Description of the Feature
+
+Clearly describe the feature you are requesting. What should be added or changed?
+
+Example: "An inventory system with drag-and-drop functionality."
+
+---
+
+## Purpose / Benefit
+
+Why should this feature be added? What problem does it solve or what value does it provide?
+
+Example: "Players can organize items more easily, improving usability."
+
+---
+
+## Target Game or Module
+
+
+Example: "Game A – the main game"
+
+---
+
+## Where Should It Be Integrated?
+
+Specify the area of the project this affects (e.g., UI, gameplay, menu, specific file or scene).
+
+Example: "In the UI system, under `src/ui/inventory.tsx`"
+
+---
+
+## Additional Information
+
+Optional: Attach sketches, screenshots, reference material, or relevant links.
+
+Example: "See the inventory system in Game XYZ: https://www.youtube.com/watch?v=..."
+
+---
+
+## Attachments / Requirements
+
+- [ ] New assets needed (please specify or upload)
+- [ ] Requires additional programming
+- [ ] Should be multiplayer compatible
+
